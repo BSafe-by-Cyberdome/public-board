@@ -1,4 +1,4 @@
-<h1> BSafe - Public Board</h1>
+<h1> <img src="https://bsafe.kerala.gov.in/svg/logo.svg" width="30px" />BSafe - Public Board</h1>
 
 <h2>About BSafe</h2>
 <p>&nbsp;&nbsp; BSafe (BSafe by Cyberdome) is a platform developed and managed by Kerala Police Cyberdome with prime objective of alerting fraud and spam calls. Not just to spam prevention, BSafe platform keeps on improving and introducing as much as new features in the field of security in various areas. </p>
