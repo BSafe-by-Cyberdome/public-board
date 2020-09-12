@@ -5,7 +5,7 @@
 </p>
 
 <h2>About BSafe</h2>
-<p>&nbsp;&nbsp; BSafe (BSafe by Cyberdome) is a platform developed and managed by Kerala Police Cyberdome with prime objective of alerting fraud and spam calls. Not just to spam prevention, BSafe platform keeps on improving and introducing as much as new features in the field of security in various areas. </p>
+<p>&nbsp;&nbsp; BSafe (BSafe by Cyberdome) is a platform developed and managed by <a href="#about-kerala-police-cyberdome">Kerala Police Cyberdome</a> with prime objective of alerting fraud and spam calls. Not just to spam prevention, BSafe platform keeps on improving and introducing as much as new features in the field of security in various areas. </p>
 
 <h2>About Kerala Police Cyberdome</h2>
 
