@@ -2,6 +2,7 @@
 
 <p>&nbsp;&nbsp; Public board is meant for reporting any 🐛<b>issues</b> anyone find in our platform. It can be logical or technical. This repo's issues section will be the board for everyone to report your findings. It is not restricted to issues, we are also open for 📩 <b>Feature Requests</b> too. You can suggest or request for a feature and even can have a refernce to code snippets or any other resorces that can be useful for implimentation or operation.
 <br><br>
+Be sure that you've read our <a href="/code-of-conduct.md">code of conduct</a> (revised from time to time) before proceeding.
 </p>
 
 <h2>About BSafe</h2>
